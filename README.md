@@ -6,7 +6,7 @@ Exploratoy Data Analysis on Retail Sales Dataset
 3. Which product categories hold the highest appeal among customers?
 4. What are the relationships between age, spending, and product preferences?
 # Analysis Content
-Step 1: Install + Import Necessary Libraries
-Step 2: Reading, Exploring and Preparing Data
+Step 1: Install + Import Necessary Libraries.
+Step 2: Reading, Exploring and Preparing Data.
 Step 3: Exploratory Data Analysis + Visualization
 
